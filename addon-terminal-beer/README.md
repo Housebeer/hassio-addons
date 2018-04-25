@@ -1,4 +1,4 @@
-# Community Hass.io Add-ons: Terminal
+# Warning: WIP Test! do not use
 
 [![GitHub Release][releases-shield]][releases]
 ![Project Stage][project-stage-shield]
